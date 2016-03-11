@@ -1,0 +1,8 @@
+getter setter 步骤一：在声明的数据域中按Ctrl+1:
+Ctrl+shift+f 整理代码
+xml 注释快捷键 Ctrl+Shift +/
+Shift + Ctrl + O
+打印快捷键 sysout + alt + /
+智能提示快捷键 alt + /
+智能键，解决多种提示 Ctrl+1:
+Ctrl + Alt + 向下 ，复制当前行到下一行
