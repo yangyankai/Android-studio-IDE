@@ -1,0 +1,13 @@
+
+Windows 下下载安装JDK
+
+0 首先.exe 安装
+（检测是否安装成功） 命令行中输入 “Java -version”
+
+1  “JAVA_HOME”,在“变量值”文本框输入JDK的安装路径（如：C:\Program Files\Java\jdk1.7.0），
+2 在“系统变量”选项区域中查看PATH变量，如果不存在，则新建变量 PATH，否则选中该变量，单击“编辑”按钮，
+在“变量值”文本框的起始位置添加“%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;”或者是直接“%JAVA_HOME%\bin;”，
+3 在“系统变量”选项区域中查看CLASSPATH 变量，如果不存在，则新建变量CLASSPATH，否则选中该变量，
+单击“编辑”按钮，在“变量值”文本框的起始位置添加“.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;”
+(检测是否配置环境变量成功)
+ 现在测试环境变量的配置成功与否。在DOS命令行窗口输入“JAVAC”，输出帮助信息即为配置正确。如图：
