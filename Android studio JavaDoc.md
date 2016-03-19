@@ -6,7 +6,10 @@ Android Studio中利用JavaDoc生成项目API文档
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 ![](https://github.com/yangyankai/IDE/edit/master/Android%20studio%20JavaDoc.md/raw/java1.jpg)
 
-![](https://github.com/yangyankai/IDE/edit/master/Android%20studio%20JavaDoc.md/raw/java2.jpg)
+![](https://github.com/yangyankai/IDE/blob/master/raw/java1.jpg)
+![](https://github.com/yangyankai/IDE/blob/master/raw/java2.jpg)
+
+
 
 
 2. Output Directory 中填写输出路径
