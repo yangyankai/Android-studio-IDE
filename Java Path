@@ -1,5 +1,5 @@
 
-Windows 下下载安装JDK
+#Windows 下下载安装JDK
 
 0 首先.exe 安装
 （检测是否安装成功） 命令行中输入 “Java -version”
